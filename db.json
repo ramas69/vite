@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Montre Connectée",
+      "price": 99.99,
+      "image": "https://m.media-amazon.com/images/I/61ksrJ2LsgL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Montre connectée avec suivi de la santé et notifications intelligentes."
+    },
+    {
+      "id": "2",
+      "name": "Casque Bluetooth",
+      "price": 79.99,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.fr%2FBERIBES-Casque-Bluetooth-sans-Fil%2Fdp%2FB0BTPCJL1W&psig=AOvVaw3W2ORj6zZxvLyqPJ5W8ZM1&ust=1728045765883000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj7_6Ge8ogDFQAAAAAdAAAAABAJ",
+      "description": "Casque sans fil avec réduction de bruit et autonomie longue durée."
+    },
+    {
+      "id": "3",
+      "name": "Clavier Mécanique RGB",
+      "price": 59.99,
+      "image": "https://m.media-amazon.com/images/I/71S0e+MTLeL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Clavier mécanique rétroéclairé RGB pour gamers et professionnels."
+    },
+    {
+      "id": "4",
+      "name": "Tablette Graphique",
+      "price": 129.99,
+      "image": "https://m.media-amazon.com/images/I/61HKFE0PSFL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Tablette graphique professionnelle avec stylet de précision."
+    },
+    {
+      "id": "5",
+      "name": "Smartphone 5G",
+      "price": 499.99,
+      "image": "https://img.pccomponentes.com/articles/1081/10812625/1303-samsung-galaxy-a25-5g-8-256gb-azul-libre.jpg",
+      "description": "Smartphone 5G avec écran OLED et appareil photo haute résolution."
+    },
+    {
+      "id": "6",
+      "name": "Enceinte Portable",
+      "price": 39.99,
+      "image": "https://example.com/images/enceinte-portable.jpg",
+      "description": "Enceinte Bluetooth compacte avec son puissant et résistance à l'eau."
+    },
+    {
+      "id": "7",
+      "name": "Souris Ergonomique",
+      "price": 25.99,
+      "image": "https://example.com/images/souris-ergonomique.jpg",
+      "description": "Souris sans fil ergonomique pour un confort optimal lors du travail."
+    },
+    {
+      "id": "8",
+      "name": "Chargeur Sans Fil",
+      "price": 19.99,
+      "image": "https://example.com/images/chargeur-sans-fil.jpg",
+      "description": "Chargeur sans fil rapide compatible avec tous les smartphones Qi."
+    },
+    {
+      "id": "9",
+      "name": "Camera de Sécurité",
+      "price": 89.99,
+      "image": "https://example.com/images/camera-securite.jpg",
+      "description": "Caméra de sécurité extérieure avec vision nocturne et détection de mouvement."
+    },
+    {
+      "id": "10",
+      "name": "Bracelet Fitness",
+      "price": 29.99,
+      "image": "https://example.com/images/bracelet-fitness.jpg",
+      "description": "Bracelet fitness avec suivi d'activités, fréquence cardiaque et notifications."
+    },
+    {
+      "id": "5662",
+      "name": "Montre",
+      "price": "12",
+      "image": "mljhdjlqsmfd",
+      "description": "mcljqljmfldf"
+    },
+    {
+      "id": "4a9a",
+      "name": "",
+      "price": 0,
+      "image": "",
+      "description": ""
+    },
+    {
+      "id": "c9cc",
+      "name": "kdjd",
+      "price": "12",
+      "image": "fdsf",
+      "description": "gsg"
+    },
+    {
+      "id": "9645",
+      "name": "fdf",
+      "price": "12",
+      "image": "rere",
+      "description": "trtr"
+    }
+  ]
+}
